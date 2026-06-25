@@ -82,8 +82,10 @@ http://127.0.0.1:5000
 - File Upload Support
 - Multi-language Support
 # 👩‍💻 Developer
-**Neelima Nakka**
+**Neelima Nakka**||
+**Karthikeya Barla**
 **GitHub:**  
-https://github.com/Neelimanakka
+https://github.com/Neelimanakka || 
+https://github.com/karthikbarla24
 # 📄 License
 This project is developed for educational and learning purposes.
